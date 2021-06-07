@@ -1,4 +1,4 @@
-******************** Propuesta personal a la solución de coloreo de grafos ***************
+******************** Propuesta personal a la soluciÃ³n de coloreo de grafos ***************
 
 
-MINIMO NÚMERO DE COLORES ***100% EFECTIVIDAD***
+MINIMO NÃšMERO DE COLORES ***100% DE EFECTIVIDAD***
